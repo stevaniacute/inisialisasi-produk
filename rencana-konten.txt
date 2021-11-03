@@ -3,7 +3,10 @@ Rencana konten produk
 -javascript 
   *es6
   *framework javascript
+    ^ vue.js
 -struktur data dasar
 -php framework
+    ^laravel
 -interview  
 -vlog
+-phyton
