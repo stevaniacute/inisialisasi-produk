@@ -3,6 +3,7 @@ Rencana konten produk
 -javascript 
   *es6
   *framework javascript
+-struktur data dasar
 -php framework
 -interview  
 -vlog
