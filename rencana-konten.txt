@@ -3,9 +3,11 @@ Rencana konten produk
 -javascript 
   *es6
   *framework javascript
-     ^ angular
-     ^ react
- -php framework
-    ^ laravel
+    ^ vue.js
+    ^ react.js
+-struktur data dasar
+-php framework
+    ^laravel
 -interview  
 -vlog
+-phyton
