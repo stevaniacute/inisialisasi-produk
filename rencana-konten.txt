@@ -4,6 +4,7 @@ Rencana konten produk
   *es6
   *framework javascript
     ^ vue.js
+    ^ react.js
 -struktur data dasar
 -php framework
     ^laravel
